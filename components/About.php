@@ -29,7 +29,8 @@
         <div class="row mt-5 pt-2">
             <div class="col-lg-6">
                 <div class="about-box bg-light rounded text-center mt-4">
-                    <i class="mdi mdi-monitor text-primary"></i>
+                  <img src="assets/images/icons/vision.svg" alt="">
+
 
                     <h5 class="f-18 mt-3">
                       Nuestra Razón de ser
@@ -45,7 +46,8 @@
 
             <div class="col-lg-6">
                 <div class="about-box box-shadow rounded text-center mt-4">
-                    <i class="mdi mdi-nfc-variant text-primary"></i>
+                    <img src="assets/images/icons/vision.svg" alt="">
+
                     <h5 class="f-18 mt-3">
                       ¿Qué queremos lograr?
                     </h5>

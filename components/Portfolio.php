@@ -8,9 +8,12 @@
                     <p class="text-uppercase text-muted mb-2">
                       ¿Qué ofrecemos?
                     </p>
-                    
+
                     <div class="title-border mt-3"></div>
-                    <p class="title-desc text-muted mt-3">Porttitor dolor donec pulvinar tortor nisi quis dapibus tortor commodo sed Pellentesque hendrerit pellentesque libero nec sollicitudin.</p>
+
+                    <p class="title-desc text-muted mt-3">
+                      
+                    </p>
                 </div>
             </div>
         </div>
