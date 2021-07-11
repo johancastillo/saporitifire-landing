@@ -12,7 +12,7 @@
                     <div class="title-border mt-3"></div>
 
                     <p class="title-desc text-muted mt-3">
-                      
+
                     </p>
                 </div>
             </div>
@@ -41,7 +41,7 @@
                             <div class="item-mask">
                                 <div class="item-caption">
                                     <h5 class="f-18">Motores</h5>
-                                    <p class="text-primary">Business Improve</p>
+                                    <p class="text-primary">Producto</p>
                                 </div>
                             </div>
                         </a>
@@ -56,7 +56,7 @@
                             <div class="item-mask">
                                 <div class="item-caption">
                                     <h5 class="f-18">Arranque y puesta en marcha</h5>
-                                    <p class="text-primary">Business Improve</p>
+                                    <p class="text-primary">Servicio</p>
                                 </div>
                             </div>
                         </a>
@@ -70,7 +70,7 @@
                             <div class="item-mask">
                                 <div class="item-caption">
                                     <h5 class="f-18">Suministros</h5>
-                                    <p class="text-primary">Business Improve</p>
+                                    <p class="text-primary">Producto</p>
                                 </div>
                             </div>
                         </a>
@@ -83,8 +83,8 @@
                             <img class="item-container rounded" src="./assets/images/services/02.png" alt="work-img" />
                             <div class="item-mask">
                                 <div class="item-caption">
-                                    <h5 class="f-18">Business Growth</h5>
-                                    <p class="text-primary">Business Improve</p>
+                                    <h5 class="f-18">Inspección, prueba <br> y mantenimiento</h5>
+                                    <p class="text-primary">Servicio</p>
                                 </div>
                             </div>
                         </a>
@@ -97,8 +97,8 @@
                             <img class="item-container rounded" src="./assets/images/products/03.png" alt="work-img" />
                             <div class="item-mask">
                                 <div class="item-caption">
-                                    <h5 class="f-18">International Business</h5>
-                                    <p class="text-primary">Business Improve</p>
+                                    <h5 class="f-18">Partes</h5>
+                                    <p class="text-primary">Producto</p>
                                 </div>
                             </div>
                         </a>
@@ -111,8 +111,8 @@
                             <img class="item-container rounded" src="./assets/images/services/03.png" alt="work-img" />
                             <div class="item-mask">
                                 <div class="item-caption">
-                                    <h5 class="f-18">Consumer Products</h5>
-                                    <p class="text-primary">Business Improve</p>
+                                  <h5 class="f-18">Asesorias</h5>
+                                  <p class="text-primary">Servicio</p>
                                 </div>
                             </div>
                         </a>

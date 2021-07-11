@@ -10,7 +10,7 @@
     <meta name="keywords" content="bootstrap 4, premium, marketing, multipurpose" />
     <meta content="Themesdesign" name="author" />
     <!-- favicon -->
-    <link rel="shortcut icon" href="images/icon.ico">
+    <link rel="shortcut icon" href="assets/images/icon.png">
     <!-- css -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
@@ -64,17 +64,36 @@
     ?>
     <!-- END CTA -->
 
+    <!-- START PROCESO DE VENTAS -->
+    <?php
+      require "./components/Process.php";
+    ?>
+    <!-- END PROCESO DE VENTAS -->
+
+    <!-- START CTA -->
+    <?php
+      require "./components/Banner2.php";
+    ?>
+    <!-- END CTA -->
+
     <!-- START CONTACT -->
     <?php
       require "./components/Contact.php";
     ?>
     <!-- END CONTACT -->
 
+    <!-- PARTNER -->
+    <?php
+      require "./components/Partner.php";
+    ?>
+    <!-- END PARTNER -->
+
     <!-- START FOOTER -->
     <?php
       require "./components/Footer.php";
     ?>
     <!-- END FOOTER -->
+
 
     <!-- FOOTER-ALT -->
     <?php

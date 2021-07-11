@@ -8,10 +8,10 @@
                       Subscribete a nustro boletín informativo
                     </h2>
 
-                    <input class="form-control" type="text" name="" value="" placeholder="ejemplo@gmail.com">
+                    <input class="form-control" type="text" id="subscribe-input" placeholder="ejemplo@gmail.com">
 
                     <div class="text-center mt-4">
-                        <a href="#" class="btn btn-primary mt-2">
+                        <a href="#" class="btn btn-primary mt-2" id="btn-subscribe">
                           Subscríbete
                         </a>
                     </div>

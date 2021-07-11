@@ -5,12 +5,9 @@
             <div class="col-lg-12">
                 <div class="text-cebter">
                     <h2 class="text-white text-center">
-                      DONDE NOS NECESITES ALLÍ ESTAREMOS
+                      Más de 30 años de experiencia y profesinalismo
+                      en protección contra incendios
                     </h2>
-
-                    <p class=" text-white text-center mt-3">
-                      Cobertura nacional en sistemas contra incendios.
-                    </p>
 
                 </div>
             </div>

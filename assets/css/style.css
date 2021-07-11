@@ -217,7 +217,7 @@ p {
 }
 
 .text-primary {
-  color: #f1894c !important;
+  color: #c11c39 !important;
 }
 
 .icon-dual-primary {
@@ -1480,7 +1480,7 @@ textarea.form-control {
 }
 
 .footer-alt {
-  background-color: #050404;
+  background-color: #585858;
 }
 
 @media (min-width: 200px) and (max-width: 768px) {
@@ -1569,4 +1569,30 @@ div.icon.linkedin img{
 
 .media h6 span{
   border-bottom: 1px solid #c11e3b;
+}
+
+.footer-alt .content p{
+  color: #fff !important;
+}
+
+.footer-alt .content a{
+  color: #fff !important;
+}
+
+.footer .partner{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn-double{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.center-around{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }

@@ -5,13 +5,17 @@
             <div class="col-lg-12">
                 <div class="text-cebter">
                     <h2 class="text-white text-center">
-                      DONDE NOS NECESITES ALLÍ ESTAREMOS
+                      PARTNER
                     </h2>
 
                     <p class=" text-white text-center mt-3">
-                      Cobertura nacional en sistemas contra incendios.
+                      Comercializa la línea más grande de motores diesel para bombas contra incendio en el mundo: +100.000 ventas y 152 países.
                     </p>
 
+                    <div class="d-flex btn-double mt-4">
+                        <a href="#" class="btn btn-primary mt-2">Conocer más</a>
+                        <a href="#" class="btn btn-primary mt-2">Historia de Clark</a>
+                    </div>
                 </div>
             </div>
         </div>

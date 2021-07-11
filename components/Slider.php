@@ -39,11 +39,14 @@
                                     <div class="home-content text-white">
 
                                         <h1 class="title mt-4 text-white">
-                                          We're Giving Design <br> Solution & Idea.
+                                          Equipo de expertos <br>
+                                          en sistemas contra incendios.
+
                                         </h1>
 
                                         <p class="text-white mt-4">
-                                          Saporiti Fire, representantes exclusivos de CLARKE FIRE para Venezuela, empresa número uno en la fabricación y certificación de motores contra incendios.
+                                          Nuestra gente, nuestro orgullo.Contamos con un equipo certificado para inspeccionar, mantener y realizar
+                                          pruebas de los motores contra incendios.
                                         </p>
 
                                     </div>
@@ -63,10 +66,14 @@
                                 <div class="col-md-12">
                                     <div class="home-content text-right">
 
-                                        <h1 class="title mt-4 pt-3 text-white text-uppercase">Why Wait? Xeril<br>Right Now!</h1>
+                                        <h1 class="title mt-4 pt-3 text-white">
+                                          Nuestro propósito es ayudar <br>
+                                          proteger vidas y los activos
+                                        </h1>
 
-                                        <p class="text-white mt-4 f-18">Vivamus sodales eleifend odio eget mollis Cras consectetur nisi quis pulvinar
-                                            <br> laoreet Nulla facilisi Maecenas eget velit laoreet.
+                                        <p class="text-white mt-4 f-18">
+                                          El objetivo es mitigar el riesgo, mediante la instalación
+                                          y el mantenimiento de motores contra incendio.
                                         </p>
 
                                     </div>
