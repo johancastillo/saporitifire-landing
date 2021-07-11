@@ -76,6 +76,12 @@
     ?>
     <!-- END CTA -->
 
+    <!-- START Benefits -->
+    <?php
+      require "./components/Benefits.php";
+    ?>
+    <!-- END Benefits -->
+
     <!-- START CONTACT -->
     <?php
       require "./components/Contact.php";

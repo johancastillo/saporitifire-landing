@@ -16,8 +16,13 @@
                 <li class="nav-item">
                     <a href="#about" class="nav-link">Nosotros</a>
                 </li>
+
                 <li class="nav-item">
                     <a href="#portfolio" class="nav-link">Portafolio</a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="#portfolio" class="nav-link">Beneficios</a>
                 </li>
 
                 <li class="nav-item">
