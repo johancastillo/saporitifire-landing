@@ -1637,3 +1637,17 @@ h2{
   border-bottom: 1px solid red;
   text-transform: uppercase;
 }
+
+
+.sello{
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  width: 140px;
+}
+
+@media screen and (max-width: 600px){
+  .sello{
+    display: none;
+  }
+}

@@ -22,7 +22,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a href="#portfolio" class="nav-link">Beneficios</a>
+                    <a href="#benefits" class="nav-link">Beneficios</a>
                 </li>
 
                 <li class="nav-item">
@@ -30,7 +30,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a href="#blog" class="nav-link">Partner</a>
+                    <a href="#partner" class="nav-link">Partner</a>
                 </li>
             </ul>
         </div>

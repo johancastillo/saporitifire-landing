@@ -1,4 +1,4 @@
-<div class="container my-5 benefits-section">
+<div id="benefits" class="section container my-5 benefits-section">
   <h2>Beneficios</h2>
 
   <br><br>

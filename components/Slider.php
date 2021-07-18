@@ -26,6 +26,9 @@
                           </div>
                       </div>
                   </div>
+
+                  <img class="sello" src="assets/images/clarke-logo.svg" alt="">
+
               </div>
           </div>
 
@@ -54,6 +57,9 @@
                             </div>
                         </div>
                     </div>
+
+                    <img class="sello" src="assets/images/clarke-logo.svg" alt="">
+
                 </div>
             </div>
 
@@ -81,6 +87,9 @@
                             </div>
                         </div>
                     </div>
+
+                    <img class="sello" src="assets/images/clarke-logo.svg" alt="">
+
                 </div>
             </div>
 
