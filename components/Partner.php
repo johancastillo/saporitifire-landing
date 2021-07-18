@@ -1,4 +1,4 @@
-<section class="section bg-cta">
+<section class="section bg-cta3">
     <div class="bg-overlay"></div>
     <div class="container">
         <div class="row">

@@ -1029,7 +1029,7 @@ p {
 
 .progress-border:before {
   content: "";
-  border: 1px solid rgba(255, 255, 255, 0.4);
+  border: 1px solid rgb(193 28 57);
   position: absolute;
   width: 72%;
   left: 64%;
@@ -1038,8 +1038,9 @@ p {
 
 .progress-count h3 {
   border: 2px solid rgba(255, 255, 255, 0.4);
-  background: #f1894c;
+  background: #c11c39;
   color: #ffffff;
+  text-align: center;
   width: 80px;
   height: 80px;
   line-height: 80px;
@@ -1049,6 +1050,7 @@ p {
 
 .progress-content {
   position: relative;
+  background: #DEDEDE;
 }
 
 .progress-content:before {
@@ -1056,7 +1058,7 @@ p {
   position: absolute;
   width: 28px;
   height: 28px;
-  background-color: #ffffff;
+  background-color: #DEDEDE;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
   left: 0;
@@ -1218,7 +1220,7 @@ p {
 
 .counter-icon i {
   width: 52px;
-  height: 52px;
+  height: 52px;text-align: center;
   line-height: 52px;
   background: #f1894c;
   display: inline-block;
@@ -1234,7 +1236,7 @@ p {
 
 .team-box .team-content {
   border: solid 1px #e9ecef;
-}
+}text-align: center;
 
 .team-box .team-content:before {
   content: "";
@@ -1278,7 +1280,7 @@ p {
   width: 80px;
   height: 80px;
   margin-right: 10px;
-  margin-left: 10px;
+  margin-left: text-align: center;10px;
   border-radius: 50%;
   cursor: pointer;
   overflow: hidden;
@@ -1289,7 +1291,7 @@ p {
 .carousel-indicators .active {
   opacity: 1;
   border: 4px solid #f1894c;
-  z-index: 3;
+  z-index: 3;text-align: center;
 }
 
 .carousel-control-next-icon,
@@ -1338,7 +1340,23 @@ p {
 }
 
 .bg-cta {
-  background-image: url(../images/bg-3.jpg);
+  background-image: url(../images/banners/1.png);
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  background-position: center;
+}
+
+.bg-cta2 {
+  background-image: url(../images/banners/2.png);
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  background-position: center;
+}
+
+.bg-cta3 {
+  background-image: url(../images/banners/3.png);
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -1595,4 +1613,27 @@ div.icon.linkedin img{
   display: flex;
   justify-content: space-around;
   align-items: center;
+}
+
+.benefits-section .card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h2{
+  text-align: center;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 43px;
+  color: #C11C3A;
+  text-transform: uppercase;
+}
+
+.benefits-section .card h6{
+  border-bottom: 1px solid red;
+  text-transform: uppercase;
 }
