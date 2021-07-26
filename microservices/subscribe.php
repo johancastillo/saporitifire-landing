@@ -27,25 +27,29 @@
 
     if($result->num_rows > 0){
 
+      $response;
 
       for( $i = 0; $result->num_rows > $i; $i++){
         $data3 = mysqli_fetch_array($result);
-        echo $data3['id'];
-        echo $data3['email'];
+        $row;
+        $row['id'] = $data3['id'];
+        $row['email'] = $data3['email'];
+
+        $response[$i] = $row;
+
       }
 
 
 
 
-        $response['status'] = 'ok';
-        $response['result'] = $userData;
+
     }else{
         $response['status'] = 'err';
         $response['result'] = '';
     }
 
     //returns data as JSON format
-    //echo json_encode($response);
+    echo json_encode($response);
 
     mysqli_close($conn);
 
